@@ -1,0 +1,25 @@
+visualmente =
+
+bibliotecs prontas
+
+PRIMEIRA PASTA - tds informções e pra guardar as dependencias do proj
+SEGUNAD - 
+git pre definido - nn quer ser selecionaddo
+html estrut basica |
+N MUDAR MAIS ROOT!
+
+trabalhar com js
+
+SRC - main -> o q mais trabalhamos 
+substitui APP pelo html puro - 
+app retorna o return sempre html - funçãio atraves de tags
+
+import { createRoot } from 'react-dom/client' - unica parte
+import App from './App.jsx' - padrao
+
+botar export na frente -> pra q outra funcao consiga acessr ela 
+
+tem q usar uma div vasia pra fucionar o app
+<> blaa </> - <blaa/>
+
+elemento pai
